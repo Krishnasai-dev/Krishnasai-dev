@@ -53,15 +53,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-### 🔧 Domestic Utility Management System — Full-Stack Web Development
-Role-based web app (Admin, Worker, Customer) with end-to-end service lifecycle: booking, worker assignment, real-time status tracking, and feedback collection. Built with RESTful APIs and a relational database schema for scalability.
-
-### 🤖 Rule-Based Chatbot — React.js, JavaScript, HTML, CSS
-Interactive rule-based chatbot with a responsive, component-based UI, predefined response logic, dynamic message rendering, and optimized state management for smooth real-time conversations.
-
----
 
 ## 📊 GitHub Stats
 
