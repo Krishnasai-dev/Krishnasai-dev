@@ -57,9 +57,7 @@
 
 ## 📊 GitHub Stats
 
-![Your Stats](https://github-readme-stats.vercel.app/api?username=Krishnasai-dev&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnasai-dev&layout=compact&theme=radical)
 
 ![Streak](https://streak-stats.demolab.com/?user=Krishnasai-dev&theme=radical)
 
